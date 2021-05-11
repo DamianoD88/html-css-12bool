@@ -1,6 +1,6 @@
 
 
-.col-xs-1, .col-xs-12 {
+.col-xs-1, .col-xs-12, .col-xs-8, .col-xs-2  {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
