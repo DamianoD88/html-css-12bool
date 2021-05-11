@@ -14,3 +14,15 @@
     min-height: 200px;
 
 }
+
+/* quinta riga */
+
+.box-nested {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 200px;
+    background-color: #f07f80;
+    border: 1px solid white;
+
+}

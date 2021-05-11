@@ -19,6 +19,7 @@
     flex-wrap: wrap;
 }
 
+
 [class*="col-"] {
     flex: 0 0 auto;
 } 
@@ -142,3 +143,4 @@
 .bottom-xs {
     align-items: flex-end;
 }
+
