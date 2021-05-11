@@ -1,0 +1,15 @@
+
+
+.col-xs-1 {
+    display: flex;
+    justify-content: center;
+    background-color: #ffc0cb;
+    border: 1px solid black;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    min-height: 200px;
+
+}
