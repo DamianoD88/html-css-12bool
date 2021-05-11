@@ -1,7 +1,8 @@
 
 
-.col-xs-1 {
+.col-xs-1, .col-xs-12 {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     background-color: #ffc0cb;
     border: 1px solid black;
